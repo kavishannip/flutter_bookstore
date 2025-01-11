@@ -63,7 +63,7 @@ The app uses a consistent design system defined in `constants.dart`:
 2. **Installation**
    ```bash
    # Clone the repository
-   git clone https://github.com/kavishannip/book_store_flutter-
+   git clone https://github.com/kavishannip/flutter_bookstore.git
 
    # Navigate to project directory
    cd bookstore
